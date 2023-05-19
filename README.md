@@ -1,3 +1,9 @@
+# Install
+```
+pip install surprise
+pip install lightfm
+```
+
 # Models
 ## Requirement
 * UCF-s
