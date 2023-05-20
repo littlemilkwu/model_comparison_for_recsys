@@ -5,6 +5,6 @@ data_path_movie = data_path + 'movie_lens/'
 data_path_yelp = data_path + 'yelp/'
 data_preprocessing = './preprocessing_data/'
 
-EPOCHS = 1
+EPOCHS = 30
 FACTORS = 40
 THREADS = 50
