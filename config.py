@@ -8,3 +8,5 @@ data_preprocessing = './preprocessing_data/'
 EPOCHS = 30
 FACTORS = 40
 THREADS = 50
+BATCH_SIZE = 256
+LR = 0.001
